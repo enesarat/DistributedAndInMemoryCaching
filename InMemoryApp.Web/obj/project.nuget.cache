@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3GkGvezBO9+NqsB/Y1UU6FJkzrJy45I8dT/cgAyl/xg0kos1eZwcV4batQRQwtiGqrmCOdgesdvSlQQAP2KbfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Enes\\source\\repos\\DistributedAndInMemoryCaching\\InMemoryApp.Web\\InMemoryApp.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Enes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
