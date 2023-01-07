@@ -111,3 +111,6 @@ C:\Users\Enes\source\repos\DistributedAndInMemoryCaching\InMemoryApp.Web\obj\Deb
 C:\Users\Enes\source\repos\DistributedAndInMemoryCaching\InMemoryApp.Web\obj\Debug\netcoreapp3.1\InMemoryApp.Web.genruntimeconfig.cache
 C:\Users\Enes\source\repos\DistributedAndInMemoryCaching\InMemoryApp.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
 C:\Users\Enes\source\repos\DistributedAndInMemoryCaching\InMemoryApp.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\GetDataFromCache.cshtml.g.cs
+C:\Users\Enes\source\repos\DistributedAndInMemoryCaching\InMemoryApp.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\IndexWithExpiredCache.cshtml.g.cs
+C:\Users\Enes\source\repos\DistributedAndInMemoryCaching\InMemoryApp.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\IndexWithExpiredCache2.cshtml.g.cs
+C:\Users\Enes\source\repos\DistributedAndInMemoryCaching\InMemoryApp.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\IndexWithExpiredCache3.cshtml.g.cs
