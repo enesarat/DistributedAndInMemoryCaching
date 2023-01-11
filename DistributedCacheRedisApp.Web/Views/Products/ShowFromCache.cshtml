@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewData["Title"] = "ShowFromCache";
+    var product = ViewBag.complexTypeProduct as Product;
+}
+
+<h1>Data From Distributed Cache</h1>
+<hr />
+<h2>Primitive Type Data</h2>
+<h3>@ViewBag.name</h3>
+<hr />
+<h2>Complex Type Data</h2>
+<h3>Id: @product.ProductId Name: @product.Name  Price: @product.Price</h3>
+
